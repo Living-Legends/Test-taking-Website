@@ -37,11 +37,15 @@ Students are able to see their answer, the teacher comments, if any, and their g
 
 
 
+Teacher View 
 
 ![Screen Shot 2022-05-10 at 9 58 28 AM](https://user-images.githubusercontent.com/60273808/167647162-81015e32-29ee-4c06-839e-03a94f5c5a9a.png)
 ![Screen Shot 2022-05-10 at 9 58 38 AM](https://user-images.githubusercontent.com/60273808/167647164-7e2a4cbc-9547-4097-824a-baea3217aece.png)
 ![Screen Shot 2022-05-10 at 9 58 50 AM](https://user-images.githubusercontent.com/60273808/167647166-b51b04fb-ddc3-4cad-9c2d-d3164d7c59e6.png)
 ![Screen Shot 2022-05-10 at 9 59 08 AM](https://user-images.githubusercontent.com/60273808/167647169-f70fa49e-e7d1-4928-9213-8a1d3ec8a664.png)
+
+Student View
+
 ![Screen Shot 2022-05-10 at 9 59 33 AM](https://user-images.githubusercontent.com/60273808/167647175-e8784cb8-0463-4ab7-aee8-7676a24237bf.png)
 ![Screen Shot 2022-05-10 at 10 00 05 AM](https://user-images.githubusercontent.com/60273808/167647178-a8093282-5012-4008-98cc-5eb77e8c4a01.png)
 ![Screen Shot 2022-05-10 at 10 00 24 AM](https://user-images.githubusercontent.com/60273808/167647180-1fe9c92c-6ea3-4b62-ab23-79e778373fc0.png)
